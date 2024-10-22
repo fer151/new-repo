@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hola 
 Hola como has estado
+=======
+>>>>>>> parent of a5a9cbc (Primer cambio)
